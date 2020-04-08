@@ -1,1 +1,53 @@
-
+#EXTM3U
+#EXTINF:-1,Star 
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Fox Tv
+http://sunatv.co:80/live/1234567890/1234567890/1875.ts
+#EXTINF:-1,NTV 
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,TV 8 HD
+http://sunatv.co:80/live/1234567890/1234567890/1877.ts
+#EXTINF:-1,KanalD 
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+#EXTINF:-1,TEVE 2 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1,TRT 1 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+#EXTINF:-1,TRT Spor  
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8
+#EXTINF:-1,Sony Channel 
+http://test-planet-live.ercdn.net/sony/sony_1080p.m3u8
+#EXTINF:-1,A Spor HD
+http://sunatv.co:80/live/1234567890/1234567890/1819.ts
+#EXTINF:-1,DMAX 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://sunatv.co:80/live/1234567890/1234567890/1816.ts
+#EXTINF:-1,TLC 
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,UçanKuş 
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,ATV 
+http://ams.tvizlehd.com/live/atvavrupa/playlist.m3u8
+#EXTINF:-1,24 TV 
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,ShowMax 
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+#EXTINF:-1,Filmbox Premier HD
+http://sunatv.co:80/live/1234567890/1234567890/1851.ts
+#EXTINF:-1,Filmbox Turk HD
+http://sunatv.co:80/live/1234567890/1234567890/1855.ts
+#EXTINF:-1,BeinSports Haber 
+http://ams.tvizlehd.com/live/beinhaber/playlist.m3u8
+#EXTINF:-1,Tivibu Spor 
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Kral PoP 
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,Kral TV 
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Power 
+http://powertv.listenpowerapp.com/powertv/abr/powertv/720/chunks.m3u8
+#EXTINF:-1,Powertürk 
+http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u8
+#EXTINF:-1,1 beIN Futbol
+http://87.98.162.77:7080/playlist
