@@ -96,3 +96,16 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b20
 
 #EXTINF:-1 tvg-id="YABAN TV" tvg-name="YABAN TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/319WZ5f/yaban.png",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8 
+
+#EXTINF:-1,Star 
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,NTV 
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,TV 8 HD
+http://sunatv.co:80/live/1234567890/1234567890/1877.ts
+#EXTINF:-1,UçanKuş 
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,Kral PoP 
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1,Kral TV 
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
