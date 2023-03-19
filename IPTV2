@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Star 
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,NTV 
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1,TV 8 HD
-http://sunatv.co:80/live/1234567890/1234567890/1877.ts
 #EXTINF:-1,UçanKuş 
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1,Kral PoP 
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1,Kral TV 
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,PTV World
+http://rv.therevenge.co:80/live/11223344/11223344/84033.m3u8?checkedby:dailyfreeiptvlist.com
