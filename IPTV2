@@ -1,5 +1,558 @@
-#EXTM3U
-#EXTINF:-1,UçanKuş 
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1,PTV World
-https://iptv-org.github.io/iptv/languages/urd.m3u
+#EXTINF:-1,TR: TRT 1 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13067
+#EXTINF:-1,TR: TRT 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/474158
+#EXTINF:-1,TR: TRT 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/28892
+#EXTINF:-1,TR: TRT 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58432
+#EXTINF:-1,TR: TRT 2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293452
+#EXTINF:-1,TR: ATV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293446
+#EXTINF:-1,TR: ATV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14007
+#EXTINF:-1,TR: ATV Avrupa
+http://new-pro.tv:8080/99622282/etbVXafU6f/71011
+#EXTINF:-1,TR: Show TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14003
+#EXTINF:-1,TR: Show TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293445
+#EXTINF:-1,TR: Show Turk FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121939
+#EXTINF:-1,TR: Show Max HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2682
+#EXTINF:-1,TR: Star TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293443
+#EXTINF:-1,TR: Star TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2159
+#EXTINF:-1,TR: Kanal D HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14004
+#EXTINF:-1,TR: Kanal D FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293444
+#EXTINF:-1,Tr: Fox HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14006
+#EXTINF:-1,TR: FOX TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293447
+#EXTINF:-1,TR: TV 8 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2156
+#EXTINF:-1,TR: TV 8 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293448
+#EXTINF:-1,TR: TV 8 International
+http://new-pro.tv:8080/99622282/etbVXafU6f/58522
+#EXTINF:-1,TR: TV 8.5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293449
+#EXTINF:-1,TR: TV 8.5 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2181
+#EXTINF:-1,TR: Euro D HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58433
+#EXTINF:-1,TR: Kanal 7 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14005
+#EXTINF:-1,TR: Kanal 7 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293450
+#EXTINF:-1,TR: Kanal 7 Avrupa FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122375
+#EXTINF:-1,TR: BEYAZ TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293451
+#EXTINF:-1,TR: Beyaz FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13149
+#EXTINF:-1,TR: Teve 2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/28835
+#EXTINF:-1,TR: TEVE 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293453
+#EXTINF:-1,TR: A2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293454
+#EXTINF:-1,TR: A2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2182
+#EXTINF:-1,TR: 360 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/6554
+#EXTINF:-1,TR: Flash TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293455
+#EXTINF:-1,TR: Tjk Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/58394
+#EXTINF:-1,Tr: TRT Turk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134261
+#EXTINF:-1,TR: Ucankus TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/29801
+#EXTINF:-1,TR: NTV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121943
+#EXTINF:-1,TR: NTV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293458
+#EXTINF:-1,TR: CNN Turk FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13141
+#EXTINF:-1,TR: CNN Turk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293459
+#EXTINF:-1,TR: Haber Turk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293460
+#EXTINF:-1,TR: Haber Turk FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2168
+#EXTINF:-1,TR: TRT Haber FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13063
+#EXTINF:-1,TR: Global Haber HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122374
+#EXTINF:-1,TR: A Haber FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2167
+#EXTINF:-1,TR: A Haber HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293461
+#EXTINF:-1,TR: TGRT Haber HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/15889
+#EXTINF:-1,Tr: Uzay Haber
+http://new-pro.tv:8080/99622282/etbVXafU6f/134245
+#EXTINF:-1,TR: Kanal B HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13113
+#EXTINF:-1,TR: 24 Haber HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13174
+#EXTINF:-1,TR: Ulke TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13053
+#EXTINF:-1,TR: 24 TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/70994
+#EXTINF:-1,TR: Bloomberg HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293464
+#EXTINF:-1,TR: Bloomberg FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58587
+#EXTINF:-1,TR: TV Net HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58523
+#EXTINF:-1,TR: Halk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/20968
+#EXTINF:-1,TR: Halk TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293465
+#EXTINF:-1,TR: Haber Global FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58431
+#EXTINF:-1,TR: Tele 1 TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/28853
+#EXTINF:-1,TR: TV100 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58525
+#EXTINF:-1,TR: TV100 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293467
+#EXTINF:-1,TR: KRT TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121947
+#EXTINF:-1,TR: TRT World HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2179
+#EXTINF:-1,TR: TRT World FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293469
+#EXTINF:-1,TR: A Para FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58392
+#EXTINF:-1,TR: A NEWS HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293470
+#EXTINF:-1,TR: EkoTurk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/180105
+#EXTINF:-1,TR: Ulusal Canli TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/29800
+#EXTINF:-1,TR: BeIN Sports 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33497
+#EXTINF:-1,TR: BeIN Sports 1 HD Backup
+http://new-pro.tv:8080/99622282/etbVXafU6f/33505
+#EXTINF:-1,TR: BeIN Sports 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/33503
+#EXTINF:-1,TR: BeIN Sports 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33498
+#EXTINF:-1,TR: BeIN Sports 2 HD Backup
+http://new-pro.tv:8080/99622282/etbVXafU6f/33506
+#EXTINF:-1,TR: BeIN Sports 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33499
+#EXTINF:-1,TR: BeIN Sports 3 HD Backup
+http://new-pro.tv:8080/99622282/etbVXafU6f/33507
+#EXTINF:-1,TR: BeIN Sports 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33500
+#EXTINF:-1,TR: BeIN Sports 4 HD Backup
+http://new-pro.tv:8080/99622282/etbVXafU6f/33508
+#EXTINF:-1,TR: BeIN Sports Max 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33501
+#EXTINF:-1,TR: BeIN Sports Max 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33502
+#EXTINF:-1,TR: BeIN Sports Haber HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71039
+#EXTINF:-1,TR: TiviBu Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33491
+#EXTINF:-1,TR: TiviBu Sport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33492
+#EXTINF:-1,TR: TiviBu Sport 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33493
+#EXTINF:-1,TR: NBA TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71023
+#EXTINF:-1,TR: Sport Smart 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71022
+#EXTINF:-1,TR: Sport Smart 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/180130
+#EXTINF:-1,TR: S-Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121948
+#EXTINF:-1,TR: S-Sport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33504
+#EXTINF:-1,TR: TRT Spor 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33525
+#EXTINF:-1,TR: TRT Spor 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134416
+#EXTINF:-1,TR: TRT Spor Yildiz HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/180131
+#EXTINF:-1,TR: A Spor HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33524
+#EXTINF:-1,TR: EuroSport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33489
+#EXTINF:-1,TR: EuroSport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33490
+#EXTINF:-1,TR: GS TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134417
+#EXTINF:-1,TR: FB TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33589
+#EXTINF:-1,Tr: EXXEN SPORT 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/244903
+#EXTINF:-1,Tr: EXXEN SPORT 2
+http://new-pro.tv:8080/99622282/etbVXafU6f/244904
+#EXTINF:-1,Tr: EXXEN SPORT 3
+http://new-pro.tv:8080/99622282/etbVXafU6f/244905
+#EXTINF:-1,TR: AKSU TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134419
+#EXTINF:-1,TR: Movie Smart Turk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71043
+#EXTINF:-1,TR: Movie Smart Classic HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58638
+#EXTINF:-1,TR: Dizi Smart Max HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121971
+#EXTINF:-1,TR: Dizi Smart Premium HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121970
+#EXTINF:-1,TR: Sinema TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121960
+#EXTINF:-1,TR: SinemaTV 2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293472
+#EXTINF:-1,Tr: Sinema TV Yerli 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/134301
+#EXTINF:-1,TR: Sinema TV Komedİ HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121967
+#EXTINF:-1,TR: Sinema TV Action HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122456
+#EXTINF:-1,TR: Sinema TV Aksiyon HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121965
+#EXTINF:-1,TR: Sinema TV AKSIYON 2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293474
+#EXTINF:-1,TR: Sinema TV Aİle 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121962
+#EXTINF:-1,TR: Sinema TV AILE 2 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293476
+#EXTINF:-1,TR: Sinema TV 1002 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293478
+#EXTINF:-1,TR: BeIN Box Office 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58669
+#EXTINF:-1,TR: BeIN Box Office 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58670
+#EXTINF:-1,TR: BeIN Box Office 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58671
+#EXTINF:-1,TR: BeIN Movies Action 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58672
+#EXTINF:-1,TR: BeIN Movies Action 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58673
+#EXTINF:-1,TR: BeIN Movies Stars HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58677
+#EXTINF:-1,TR: BeIN Movies Turk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58678
+#EXTINF:-1,TR: BeIN Movies Family HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58674
+#EXTINF:-1,TR: BeIN Movies Premiere 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58675
+#EXTINF:-1,TR: BeIN Movies Premiere 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134299
+#EXTINF:-1,TR: BeIN Series Comedy HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71042
+#EXTINF:-1,TR: BeIN Series Vice HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58682
+#EXTINF:-1,TR: BeIN Series Sci-Fi HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58681
+#EXTINF:-1,TR: Bein Series Drama FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293480
+#EXTINF:-1,TR: FX TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/13127
+#EXTINF:-1,TR: Nat Geo HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13094
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13092
+#EXTINF:-1,TR: Viasat History HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121954
+#EXTINF:-1,TR: Discovery Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33712
+#EXTINF:-1,TR: Discovery Science HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13138
+#EXTINF:-1,TR: Love Nature HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121955
+#EXTINF:-1,TR: DA Vinci HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121953
+#EXTINF:-1,TR: History HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58632
+#EXTINF:-1,TR: BeIN IZ HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58633
+#EXTINF:-1,TR: BeIN Gurme HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134290
+#EXTINF:-1,TR: 24 Kitchen HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134293
+#EXTINF:-1,TR: TLC HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/6555
+#EXTINF:-1,TR: DMax HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14018
+#EXTINF:-1,TR: TRT Belgesel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14015
+#EXTINF:-1,Tr: Yaban TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134298
+#EXTINF:-1,TR: TRT Cocuk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2563
+#EXTINF:-1,TR: Minika Go HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2297
+#EXTINF:-1,TR: Minika Cocuk HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2299
+#EXTINF:-1,TR: Nick Jr. HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13091
+#EXTINF:-1,TR: Nickelodeon HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13090
+#EXTINF:-1,TR: Disney Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/2557
+#EXTINF:-1,TR: Cocuk Smart HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58597
+#EXTINF:-1,TR: Disney Junior HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/15917
+#EXTINF:-1,TR: Cartoon Network HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/15924
+#EXTINF:-1,TR: BBC Cbeebies
+http://new-pro.tv:8080/99622282/etbVXafU6f/134248
+#EXTINF:-1,TR: Boomerang HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122401
+#EXTINF:-1,TR: Baby TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/122404
+#EXTINF:-1,TR: TRT Eba TV Ilkokul
+http://new-pro.tv:8080/99622282/etbVXafU6f/70990
+#EXTINF:-1,TR: TRT Eba TV Ortaokul
+http://new-pro.tv:8080/99622282/etbVXafU6f/58393
+#EXTINF:-1,TR: Niloya TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122398
+#EXTINF:-1,TR: Disney Junior FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293486
+#EXTINF:-1,TR: FIGHT BOX HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293488
+#EXTINF:-1,TR: TARIM TURK
+http://new-pro.tv:8080/99622282/etbVXafU6f/293489
+#EXTINF:-1,TR: Akit TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13170
+#EXTINF:-1,TR: Lalegul TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/70997
+#EXTINF:-1,TR: On 4
+http://new-pro.tv:8080/99622282/etbVXafU6f/71010
+#EXTINF:-1,TR: Dost TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134428
+#EXTINF:-1,TR: Kabe TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134421
+#EXTINF:-1,TR: Semerkand
+http://new-pro.tv:8080/99622282/etbVXafU6f/134426
+#EXTINF:-1,TR: TRT Dİyanat TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/121946
+#EXTINF:-1,TR: Mekke TV FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/293500
+#EXTINF:-1,TR: Edge Sports
+http://new-pro.tv:8080/99622282/etbVXafU6f/293501
+#EXTINF:-1,TR: Kanal 42 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58526
+#EXTINF:-1,TR: Meltem TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134427
+#EXTINF:-1,TR: Kon TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71032
+#EXTINF:-1,TR: Bengu Turk TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/58521
+#EXTINF:-1,TR: TRT Avaz HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/70992
+#EXTINF:-1,TR: Anadolu Dernek TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71015
+#EXTINF:-1,TR: BRT 3
+http://new-pro.tv:8080/99622282/etbVXafU6f/134280
+#EXTINF:-1,TR: Can TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13145
+#EXTINF:-1,TR: Arti TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/28846
+#EXTINF:-1,TR: CEM TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/13144
+#EXTINF:-1,TR: Yildiz TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71007
+#EXTINF:-1,TR: SINEMA AILE 2
+http://new-pro.tv:8080/99622282/etbVXafU6f/134289
+#EXTINF:-1,TR: DRT Denizli TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/180111
+#EXTINF:-1,TR: Kanal 23
+http://new-pro.tv:8080/99622282/etbVXafU6f/134263
+#EXTINF:-1,TR: Kanal 3 afyon
+http://new-pro.tv:8080/99622282/etbVXafU6f/71003
+#EXTINF:-1,TR: Kanal 33
+http://new-pro.tv:8080/99622282/etbVXafU6f/71002
+#EXTINF:-1,TR: VIZYON 58
+http://new-pro.tv:8080/99622282/etbVXafU6f/180119
+#EXTINF:-1,TR: Kanal V
+http://new-pro.tv:8080/99622282/etbVXafU6f/71004
+#EXTINF:-1,TR: SINEMA 1002
+http://new-pro.tv:8080/99622282/etbVXafU6f/293520
+#EXTINF:-1,TR: Rumeli TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71028
+#EXTINF:-1,TR: BRT 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14024
+#EXTINF:-1,TR: Brt 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/13079
+#EXTINF:-1,TR: Genc TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/2296
+#EXTINF:-1,TR: Fight Network
+http://new-pro.tv:8080/99622282/etbVXafU6f/71006
+#EXTINF:-1,TR: Kanal 68
+http://new-pro.tv:8080/99622282/etbVXafU6f/71000
+#EXTINF:-1,TR: Kibris TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134281
+#EXTINF:-1,TR: Kibris Ada TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71033
+#EXTINF:-1,TR: SINEMA KOMEDI 2
+http://new-pro.tv:8080/99622282/etbVXafU6f/134268
+#EXTINF:-1,TR: EKIN TURK
+http://new-pro.tv:8080/99622282/etbVXafU6f/122453
+#EXTINF:-1,TR: TON TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134275
+#EXTINF:-1,TR: TV4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/58524
+#EXTINF:-1,TR: TV DEN
+http://new-pro.tv:8080/99622282/etbVXafU6f/71019
+#EXTINF:-1,TR: Yol TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134279
+#EXTINF:-1,TR: Power HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/70995
+#EXTINF:-1,TR: NR 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/15900
+#EXTINF:-1,TR: NR1 Turk  HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121959
+#EXTINF:-1,TR: Kral TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/180123
+#EXTINF:-1,TR: Kral Pop HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/14017
+#EXTINF:-1,TR: Dream Turk TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/15915
+#EXTINF:-1,TR: TRT Muzik HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/11209
+#EXTINF:-1,TR: Mavi Karadeniz
+http://new-pro.tv:8080/99622282/etbVXafU6f/71008
+#EXTINF:-1,TR: Tatlıses TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/180124
+#EXTINF:-1,TR: Babby TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71034
+#EXTINF:-1,TR: Fast & Funbox
+http://new-pro.tv:8080/99622282/etbVXafU6f/70996
+#EXTINF:-1,TR: 363
+http://new-pro.tv:8080/99622282/etbVXafU6f/70998
+#EXTINF:-1,TR: TGRT EU
+http://new-pro.tv:8080/99622282/etbVXafU6f/71012
+#EXTINF:-1,TR: TGRT Belgesel
+http://new-pro.tv:8080/99622282/etbVXafU6f/71013
+#EXTINF:-1,TR: VOA TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71016
+#EXTINF:-1,TR: TV Kayseri
+http://new-pro.tv:8080/99622282/etbVXafU6f/71018
+#EXTINF:-1,TR: FILMBOX
+http://new-pro.tv:8080/99622282/etbVXafU6f/71021
+#EXTINF:-1,TR: Sat 7 Turk
+http://new-pro.tv:8080/99622282/etbVXafU6f/71027
+#EXTINF:-1,TR: Gonca TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71031
+#EXTINF:-1,TR: Altas TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/71038
+#EXTINF:-1,TR: TRT Kurdi HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/121945
+#EXTINF:-1,TR: TV5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/122377
+#EXTINF:-1,Tr: Akilli TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134243
+#EXTINF:-1,Tr: VAV TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134296
+#EXTINF:-1,TR: FM TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134429
+#EXTINF:-1,TR: Discovery IDX HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/134291
+#EXTINF:-1,Tr: Trace Stars Sports
+http://new-pro.tv:8080/99622282/etbVXafU6f/134262
+#EXTINF:-1,TR: REHBER TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134272
+#EXTINF:-1,TR: Kanal Urfa
+http://new-pro.tv:8080/99622282/etbVXafU6f/134274
+#EXTINF:-1,Tr: Medya Haber
+http://new-pro.tv:8080/99622282/etbVXafU6f/270445
+#EXTINF:-1,TR: Medine TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134423
+#EXTINF:-1,TR: Tay TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/134418
+#EXTINF:-1,TR: Cay TV Rize
+http://new-pro.tv:8080/99622282/etbVXafU6f/180115
+#EXTINF:-1,TR: ES TV Eskisehir
+http://new-pro.tv:8080/99622282/etbVXafU6f/180108
+#EXTINF:-1,TR: SINEMA 1001
+http://new-pro.tv:8080/99622282/etbVXafU6f/180107
+#EXTINF:-1,TR: Kanal Aavrupa
+http://new-pro.tv:8080/99622282/etbVXafU6f/180110
+#EXTINF:-1,TR: SiM TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/180121
+#EXTINF:-1,Tr: EXXEN SPORT 5
+http://new-pro.tv:8080/99622282/etbVXafU6f/474179
+#EXTINF:-1,Tr: EXXEN SPORT 6
+http://new-pro.tv:8080/99622282/etbVXafU6f/474180
+#EXTINF:-1,Tr: EXXEN SPORT 7
+http://new-pro.tv:8080/99622282/etbVXafU6f/474181
+#EXTINF:-1,TR: ccFHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/474151
+#EXTINF:-1,TR: BeIN Sports 5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/474152
+#EXTINF:-1,TR: BeIN Sports Haber 2K
+http://new-pro.tv:8080/99622282/etbVXafU6f/474153
+#EXTINF:-1,TR: TiviBu Sport
+http://new-pro.tv:8080/99622282/etbVXafU6f/474154
+#EXTINF:-1,TR: TiviBu Sport 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/474155
+#EXTINF:-1,TR: A Spor 2K
+http://new-pro.tv:8080/99622282/etbVXafU6f/474156
+#EXTINF:-1,TR: TRT Spor 2K
+http://new-pro.tv:8080/99622282/etbVXafU6f/474157
+#EXTINF:-1,TR: 360 FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/474159
+#EXTINF:-1,TR: BBC First
+http://new-pro.tv:8080/99622282/etbVXafU6f/474160
+#EXTINF:-1,Tr: Blu Tv Play 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/474161
+#EXTINF:-1,Tr: BBC Earth
+http://new-pro.tv:8080/99622282/etbVXafU6f/474162
+#EXTINF:-1,Tr: Bizim Ev Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474163
+#EXTINF:-1,Tr: Docubox
+http://new-pro.tv:8080/99622282/etbVXafU6f/474164
+#EXTINF:-1,Tr: English Club Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474165
+#EXTINF:-1,Tr: Fashion Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474166
+#EXTINF:-1,Tr: Tarih Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474167
+#EXTINF:-1,Tr: Viasat Explore
+http://new-pro.tv:8080/99622282/etbVXafU6f/474168
+#EXTINF:-1,Tr: Viasat Nature
+http://new-pro.tv:8080/99622282/etbVXafU6f/474169
+#EXTINF:-1,Tr: Woman TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/474170
+#EXTINF:-1,Tr: Milyon Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474171
+#EXTINF:-1,Tr: Power Turk
+http://new-pro.tv:8080/99622282/etbVXafU6f/474172
+#EXTINF:-1,Tr: Power Turk En iyiler
+http://new-pro.tv:8080/99622282/etbVXafU6f/474173
+#EXTINF:-1,Tr: Power Turk Tv Taptaze
+http://new-pro.tv:8080/99622282/etbVXafU6f/474174
+#EXTINF:-1,Tr: Trace Urban
+http://new-pro.tv:8080/99622282/etbVXafU6f/474175
+#EXTINF:-1,Tr: Kanal T
+http://new-pro.tv:8080/99622282/etbVXafU6f/474176
+#EXTINF:-1,Tr: Kudus Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/474177
+#EXTINF:-1,Tr: EXXEN SPORT 4
+http://new-pro.tv:8080/99622282/etbVXafU6f/474178
+#EXTINF:-1,Tr: EXXEN SPORT 8
+http://new-pro.tv:8080/99622282/etbVXafU6f/474182
+#EXTINF:-1,TR: Baby TV @
+http://new-pro.tv:8080/99622282/etbVXafU6f/474183
+#EXTINF:-1,Spt-VIP| Tr: BeIN Sports 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116142
+#EXTINF:-1,Spt-VIP| Tr: BeIN Sports 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116143
+#EXTINF:-1,Spt-VIP| Tr: BeIN Sports 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116144
+#EXTINF:-1,Spt-VIP| Tr: BeIN Sports 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116145
